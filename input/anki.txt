@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#tags column:5
+Qual é o nome da geração de quem nasceu entre <b>1928–1945</b>?	Geração Silenciosa (Silent Generation)	[sound:1779805109768_Frente.mp3]	[sound:1779805109768_Verso.mp3]	
+Qual é o nome da geração de quem nasceu entre <b>1946–1964</b>?	Baby Boomers	[sound:1779805126360_Frente.mp3]	[sound:1779805126360_Verso.mp3]	
+Qual é o nome da geração de quem nasceu entre <b>1965–1980</b>?	Geração X	[sound:1779805150110_Frente.mp3]	[sound:1779805150110_Verso.mp3]	
+Qual é o nome da geração de quem nasceu entre<b> 1981–1996</b>?	Millennials (Geração Y)	[sound:1779805164896_Frente.mp3]	[sound:1779805164896_Verso.mp3]	
+Qual é o nome da geração de quem nasceu entre <b>1997–2012</b>?	Geração Z	[sound:1779805193965_Frente.mp3]	[sound:1779805193965_Verso.mp3]	
+Qual é o nome da geração de quem nasceu entre <b>2013-2025</b>?	Geração Alpha	[sound:1779805287143_Frente.mp3]	[sound:1779805287143_Verso.mp3]	
+Qual é o nome da geração de quem nasceu a partir de 2025?	Geração Beta	[sound:1779805322098_Frente.mp3]	[sound:1779805322098_Verso.mp3]	
+Quais são os eixos que estabelecem os princípios, diretrizes dos projetos para o Plano Distrital de Políticas para Mulheres (PDPM)?	<ul><li><b>Eixo 1</b>: Igualdade no mundo do trabalho e <b>autonomia econômica</b>;</li><li><b>Eixo 2</b>: <b>Educação</b> para igualdade; Eixo 3: Saúde integral das mulheres, direitos sexuais e reprodutivos;</li><li><b>Eixo 4</b>: Enfrentamento de todas as formas de <b>violência contra as mulheres</b>;</li><li><b>Eixo 5</b>: <b>Participação das mulheres</b> nos espaços de poder e decisão;</li><li><b>Eixo 6</b>: Igualdade para as <b>mulheres rurais</b>;</li><li><b>Eixo 7</b>: <b>Cultura</b>, esporte, comunicação e mídia;</li><li><b>Eixo 8</b>: <b>Enfrentamento</b> do racismo, sexismo, lesbofobia e transfobia;</li><li><b>Eixo 9</b>: <b>Igualdade para as mulheres</b> jovens, mulheres idosas e mulheres com deficiência;</li></ul>	[sound:1782568113751_Frente.mp3]	[sound:1782568113751_Verso.mp3]	

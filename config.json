@@ -1,0 +1,6 @@
+{
+    "input": "./input",
+    "output": "./output",
+    "convertHtml": true,
+    "exportMode": "singleFile"
+}
